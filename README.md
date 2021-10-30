@@ -1,4 +1,4 @@
 # Tugas-Frontend-1-GDSC
 Tugas Frontend #1 GDSC
 
-Untuk menjalankan buka index.html
+Untuk menjalankan buka index.html pada browser (chrome)
